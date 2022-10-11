@@ -8,6 +8,3 @@ ITE-306 SAS#20 Activity#3 No.2 - Manzon, Mark Anthony M.
 
 4. Copy the URL  http://127.0.0.1:5000
 
-5. And then go to the GOOGLE copy the URL  http://127.0.0.1:5000 add '/' add 'table' add '15'
-= http://127.0.0.1:5000/table/15 will print the table of 15 on the browser's window.
-
